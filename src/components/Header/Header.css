@@ -5,6 +5,7 @@
     z-index: 100;
     border-bottom: 1px solid #f9f9f9;
     padding: 10px;
+    position: sticky;
 }
 .header__logo{
     object-fit: contain;
